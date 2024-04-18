@@ -1,4 +1,4 @@
-# Atividade 1 + Roteiro de testes 
+# Questões + Roteiro de testes 
 
 Roteiro de testes contendo cenários e evidências de teste do fluxo de pesquisa de passagens do site: https://www.latamairlines.com/br/pt
 
